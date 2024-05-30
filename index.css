@@ -1,5 +1,5 @@
 body {
-  background: #008888 url('../images/birthday.svg.jpeg') no-repeat center center fixed;
+  background: #008888 url('../birthday.svg.jpeg') no-repeat center center fixed;
   background-size: cover;
   display: grid;
   place-items: center;
