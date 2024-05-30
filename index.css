@@ -1,0 +1,9 @@
+body {
+  background: #008888 url('./birthday.svg.jpeg') no-repeat center center fixed;
+  background-size: cover;
+  display: grid;
+  place-items: center;
+  height: 100vh;
+  margin: 0;
+  font-family: 'Open Sans', sans-serif;
+}
